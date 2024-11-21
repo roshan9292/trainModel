@@ -1,0 +1,6 @@
+train: data/imgData/train/images
+val: data/imgData/valid/images
+test: data/imgData/valid/images
+
+nc: 5
+names: ['tiger','elephant','rhino','cat','dog']
