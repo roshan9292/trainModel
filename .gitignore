@@ -43,3 +43,5 @@
 /.venv/
 venv*/
 ENV*/
+
+yolov5/imgData/
