@@ -39,3 +39,7 @@
 .html  # Bokeh Plots
 .pg  # TensorFlow Frozen Graphs
 .avi # videos
+
+.venv*
+venv*/
+ENV*/
