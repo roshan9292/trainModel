@@ -22,7 +22,6 @@
 
 
 *.weights
-*.pt
 *.pb
 *.onnx
 *.engine
