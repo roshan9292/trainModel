@@ -1,6 +1,6 @@
 train: data/imgData/train/images
 val: data/imgData/valid/images
-test: data/imgData/valid/images
+test: data/imgData/test
 
 nc: 5
-names: ['tiger','elephant','rhino','cat','dog']
+names: ['tiger', 'elephant', 'rhino','dog','cat']
