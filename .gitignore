@@ -44,5 +44,6 @@ venv*/
 ENV*/
 
 yolov5/imgData/
+yolov5/
 
 /classModif.py
